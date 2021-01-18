@@ -1,25 +1,24 @@
 @font-face {
-    font-family: cyberdyneoutital;
-    src: url('/Лаб1/fonts/cyberdyneoutital.ttf');
-    -moz-background-size: 100%;
-    -webkit-background-size: 100%;
-    -o-background-size: 100%;
-    background-size: 100%;
+  font-family: cyberdyneoutital;
+  src: url('../fonts/cyberdyneoutital.ttf');
+  -moz-background-size: 100%;
+  -webkit-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
 }
 
 #clock {
-    font-family: cyberdyneoutital;
-    src: url(/Лаб1/fonts/cyberdyneoutital.ttf);
-    color:#4682B4;
-    font-weight: bold;
-    font-size: 1200%;
-    text-transform: uppercase;
-    text-align: center;
-    padding-top: 17%;
-    text-shadow: 0 0 20px#4169E1
+  font-family: cyberdyneoutital;
+  src: url("../fonts/cyberdyneoutital.ttf");
+  color: #4682B4;
+  font-weight: bold;
+  font-size: 1200%;
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 17%;
+  text-shadow: 0 0 20px#4169E1
 }
 
-
-body{ 
-    background: url(/Лаб1/images/fon.jpg); 
+body {
+  background: url("../images/background.jpg");
 }
